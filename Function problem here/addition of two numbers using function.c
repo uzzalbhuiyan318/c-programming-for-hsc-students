@@ -12,8 +12,8 @@ int main()
 {
     int num1,num2,addition;
     scanf("%d %d",&num1,&num2);
-   addition=add(num1,num2);
-   printf("Addition of the two number is %d",addition);
+    addition=add(num1,num2);
+    printf("Addition of the two number is %d",addition);
 
    return 0;
 
