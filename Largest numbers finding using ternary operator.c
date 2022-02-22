@@ -20,14 +20,5 @@ main()
     (a>b)?((a>c)?(printf("%d is largest number",a)):(printf("%d is largest number",c))):((b>c)?(printf("%d is largest number",b)):(printf("%d is largest number",c)));
 
 
-
-
-
-
-
-
-
-
-
 }
 
